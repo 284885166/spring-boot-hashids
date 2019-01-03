@@ -14,7 +14,7 @@ spring-boot-hashids作为一个springboot的一个插件使用，目前兼容spr
 
 1. 打开MemberController.java查看路由路径
 2. 请求会员列表接口 [http://localhost:8080/members](http://localhost:8080/members)
-3. 请求结果展示：![请求结果展示](https://github.com/284885166/spring-boot-hashids/master/screenshot/res.png)
+3. 请求结果展示：![请求结果展示](https://github.com/284885166/spring-boot-hashids/blob/master/screenshot/res.png?raw=true)
 
 #### 参与贡献
 
